@@ -1,0 +1,7 @@
+interface:
+  display_name: "Build Startup"
+  short_description: "Orquestra produtos digitais da ideia à escala"
+  default_prompt: "Use $build-startup para diagnosticar este produto e conduzi-lo até o próximo gate comprovável."
+
+policy:
+  allow_implicit_invocation: true
